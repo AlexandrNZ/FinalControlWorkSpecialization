@@ -1,0 +1,25 @@
+  374  echo "собаки, кошки, хомяки" > "Домашние животные"
+  375  echo "лошади, верблюды, ослы" > "Вьючные животные"
+  376  cat "Домашние животные" "Вьючные животные" > "Объединенные животные"
+  377  cat "Объединенные животные"
+  378  mv "Объединенные животные" "Друзья человека"
+  379  mv "Друзья человека" Директория/
+  380  mkdir Директория
+  381  mv "Друзья человека" Директория
+  382  sudo apt-get install software-properties-common
+  383  sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com 5072E1F5
+  384  sudo add-apt-repository 'deb http://repo.mysql.com/apt/ubuntu/ focal mysql-8.0'
+  385  sudo apt-get update
+  386  sudo apt-get install mysql-server
+  387  sudo dpkg -i package_name.deb
+  388  sudo dpkg -i vivaldi-stable_6.4.3160.47-1_amd64.deb
+  389  cd ~/Загрузки/
+  390  sudo dpkg -i vivaldi-stable_6.4.3160.47-1_amd64.deb
+  391  sudo dpkg -r vivaldi-stable_6.4.3160.47-1_amd64.deb
+  392  apt list --installed
+  393  /
+  394  cd/
+  395  cd /
+  396  sudo dpkg -r vivaldi-stable
+  397  history
+
